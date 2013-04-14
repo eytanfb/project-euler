@@ -39,3 +39,6 @@ def lcm(a, b):
     
 import doctest
 doctest.testmod()
+
+if __name__ == "__main__":
+    print solution(20)
